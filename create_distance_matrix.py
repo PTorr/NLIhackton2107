@@ -1,5 +1,4 @@
 import pickle
-import keras.backend as K
 import numpy as np
 from scipy.linalg import sqrtm
 
