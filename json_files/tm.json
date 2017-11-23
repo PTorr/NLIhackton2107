@@ -1,0 +1,2127 @@
+﻿[
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003484782/manifest",
+    "@type": "sc:Manifest",
+    "label": "Jaffa vom Meere aus."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003484781/manifest",
+    "@type": "sc:Manifest",
+    "label": "[יריחו]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003488366/manifest",
+    "@type": "sc:Manifest",
+    "label": "עזרת נדחים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003765025/manifest",
+    "@type": "sc:Manifest",
+    "label": "קאלאניע פתח תקוה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003540119/manifest",
+    "@type": "sc:Manifest",
+    "label": "אחוזת הקבר של קרל נטר, מקוה ישראל."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002719224/manifest",
+    "@type": "sc:Manifest",
+    "label": "[יהושע סירקין וראשוני המתיישבים בכפר עין זיתים]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003484808/manifest",
+    "@type": "sc:Manifest",
+    "label": "[פרדס אבו רחמה, נס ציונה]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002642909/manifest",
+    "@type": "sc:Manifest",
+    "label": "ראשון לציון"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002642707/manifest",
+    "@type": "sc:Manifest",
+    "label": "ועד בית העם והספריה בראשון לציון"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002719238/manifest",
+    "@type": "sc:Manifest",
+    "label": "חנוכת בית הפועלים במוצא, ל\"ג בעמר תרנ\"ה"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003574987/manifest",
+    "@type": "sc:Manifest",
+    "label": "[סלילת כביש באחת ממושבות ארץ ישראל]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003484847/manifest",
+    "@type": "sc:Manifest",
+    "label": "פתח תקוה, מערב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003484850/manifest",
+    "@type": "sc:Manifest",
+    "label": "קבר רבי מאיר בעל הנס."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003484894/manifest",
+    "@type": "sc:Manifest",
+    "label": "ראש פנה"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003484903/manifest",
+    "@type": "sc:Manifest",
+    "label": "ראש פנה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003484913/manifest",
+    "@type": "sc:Manifest",
+    "label": "גשר הירדן."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003535411/manifest",
+    "@type": "sc:Manifest",
+    "label": "מערת אליהו הנביא."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003535415/manifest",
+    "@type": "sc:Manifest",
+    "label": "שוויה אצל שומרון."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003484779/manifest",
+    "@type": "sc:Manifest",
+    "label": "רחובות."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003479240/manifest",
+    "@type": "sc:Manifest",
+    "label": "מראה הפנימי של בית המדרש \"שלום הארץ\" בבית מושב זקנים בעיה\"ק ירושלם תובב\"א."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002642904/manifest",
+    "@type": "sc:Manifest",
+    "label": "תזמרת ראשון לציון"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002720084/manifest",
+    "@type": "sc:Manifest",
+    "label": "עשרת החלוצים הראשונים של המושבה מחנים בארץ הקדש"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003567745/manifest",
+    "@type": "sc:Manifest",
+    "label": "Abraham Epstein und Prof. Dr. Awigdor Aptowitzer in Baden bei Wien."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003684696/manifest",
+    "@type": "sc:Manifest",
+    "label": "Jerusalem: Jemenite Jews - Arabische Juden - Juifs de Yémen."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002642922/manifest",
+    "@type": "sc:Manifest",
+    "label": "בית הספר של חכי\"ח \"התורה והמלאכה\" בעיה\"ק ירושלים ת\"ו עם קבוצת תלמידיו, מוריו ומנהליו"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003680527/manifest",
+    "@type": "sc:Manifest",
+    "label": "הר הבית."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003540035/manifest",
+    "@type": "sc:Manifest",
+    "label": "כרמי גדרה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003540030/manifest",
+    "@type": "sc:Manifest",
+    "label": "רחובות."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002725675/manifest",
+    "@type": "sc:Manifest",
+    "label": "Rechoboth, 1902: Schule."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003712744/manifest",
+    "@type": "sc:Manifest",
+    "label": "Absaloms Grabmal, Jerusalem."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003712743/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<Die>> Aksa-Moschee in Jerusalem."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003712888/manifest",
+    "@type": "sc:Manifest",
+    "label": "Ansicht von Akka - Palaestina."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003713136/manifest",
+    "@type": "sc:Manifest",
+    "label": "Ansicht von Tyrus."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003712918/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<Der>> Berg Tabor."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003712885/manifest",
+    "@type": "sc:Manifest",
+    "label": "Caesarea Stratonis."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003713576/manifest",
+    "@type": "sc:Manifest",
+    "label": "Djenin in der Jesreel-Ebene, Palaestina."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003712915/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<Das>> \"Feld des Boas\"."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003712739/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<Der>> Felsendom auf dem Tempelplatz in Jerusalem."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003712741/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<Der>> Felsendom in Jerusalem."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003713144/manifest",
+    "@type": "sc:Manifest",
+    "label": "Gaza in Sued-Palaestina."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003712922/manifest",
+    "@type": "sc:Manifest",
+    "label": "Gilgal im Jordantal."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003712738/manifest",
+    "@type": "sc:Manifest",
+    "label": "Jerusalem: Das Goldene Tor."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003712864/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<Die>> Jordan-Quelle bei Dan."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003712883/manifest",
+    "@type": "sc:Manifest",
+    "label": "Mizpah in Benjamin."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003712814/manifest",
+    "@type": "sc:Manifest",
+    "label": "Platz der Burg Antonia in Jerusalem."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003713133/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<Die>> Pyramiden von Gizeh."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003712921/manifest",
+    "@type": "sc:Manifest",
+    "label": "Rahel's Grab; Am Tiberias See."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003713141/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<Der>> Tempelplatz in Jerusalem."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003712742/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<Der>> Tempelplatz mit dem Oelberge im Hintergrund."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002642539/manifest",
+    "@type": "sc:Manifest",
+    "label": "אספת היסוד של הסתדרות המורים בזכרון יעקב, אלול תרס\"ג"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003696861/manifest",
+    "@type": "sc:Manifest",
+    "label": "חיפה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002642686/manifest",
+    "@type": "sc:Manifest",
+    "label": "נשיאות הכנסיה הראשונה בארץ ישראל, זכרון יעקב"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003680855/manifest",
+    "@type": "sc:Manifest",
+    "label": "Jerusalem: Damaskus-Tor."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003681292/manifest",
+    "@type": "sc:Manifest",
+    "label": "Jerusalem: Measuring Wheat - Weizen-Verkäuter - Vente du blé."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003680848/manifest",
+    "@type": "sc:Manifest",
+    "label": "Jerusalem: Sheep and Shepherd - Hirte mit Schafen - Berger et brébis."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003534990/manifest",
+    "@type": "sc:Manifest",
+    "label": "Travelers' Camps at Nazareth, April 1904"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003535713/manifest",
+    "@type": "sc:Manifest",
+    "label": "לשכת הסופרים של חברת אנגליא-פלשתינה בירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003535727/manifest",
+    "@type": "sc:Manifest",
+    "label": "חברת אנגליה-פלשתינה בערבון מוגבל, יפו."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003677451/manifest",
+    "@type": "sc:Manifest",
+    "label": "בית חנוך עורים לבני ישראל, ירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002643733/manifest",
+    "@type": "sc:Manifest",
+    "label": "קבוצת סופרים עברים בוילנה"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003691518/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>מרכז בראשון לציון."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003670429/manifest",
+    "@type": "sc:Manifest",
+    "label": "אחד העם בחברת בתו וחתנו, לאה ושמואל יוסף פבזנר."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003694680/manifest",
+    "@type": "sc:Manifest",
+    "label": "אל הכרם לנטור."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003479521/manifest",
+    "@type": "sc:Manifest",
+    "label": "גמנסיה עברית, יפו."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003479540/manifest",
+    "@type": "sc:Manifest",
+    "label": "בניין בנק אנגלו פלשתינה, סניף חברון."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003571813/manifest",
+    "@type": "sc:Manifest",
+    "label": "חברי \"מוריה\" (תלמידי בית המדרש למורים בירושלם) בהתעמלם."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003484747/manifest",
+    "@type": "sc:Manifest",
+    "label": "רחוב בוסטרוס, יפו."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003479528/manifest",
+    "@type": "sc:Manifest",
+    "label": "סניף אנגלו פלשתינה בנק, חיפה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003483856/manifest",
+    "@type": "sc:Manifest",
+    "label": "Wasserleitung Installation, Kolonie Messcha."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003681304/manifest",
+    "@type": "sc:Manifest",
+    "label": "Jerusalem Old City"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003674549/manifest",
+    "@type": "sc:Manifest",
+    "label": "[משפחה ערבית נוצרית בירושלים]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003681363/manifest",
+    "@type": "sc:Manifest",
+    "label": "Am Libanon."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003681354/manifest",
+    "@type": "sc:Manifest",
+    "label": "Am Toten Meer."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003681356/manifest",
+    "@type": "sc:Manifest",
+    "label": "Bethlehem."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003681958/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<Die>> Citadelle von Jerusalem."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003681365/manifest",
+    "@type": "sc:Manifest",
+    "label": "Davids Grab in Jerusalem."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003681369/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<Das>> Helige Bad am Jordan."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003709323/manifest",
+    "@type": "sc:Manifest",
+    "label": "Jaffa: House of Simon the tanner."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003681367/manifest",
+    "@type": "sc:Manifest",
+    "label": "Jerusalem: Auf der Plattform des Felsendomes."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003709579/manifest",
+    "@type": "sc:Manifest",
+    "label": "Jerusalem: Tomb of Absalom."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003682041/manifest",
+    "@type": "sc:Manifest",
+    "label": "Kirche der Himmelfahrt Christi auf dem Oelberg."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003681969/manifest",
+    "@type": "sc:Manifest",
+    "label": "Kreuzfindungskapelle in Jerusalem."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003681368/manifest",
+    "@type": "sc:Manifest",
+    "label": "Nazareth."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003682064/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<Der>> Teich von Bethesda in Jerusalem."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003709264/manifest",
+    "@type": "sc:Manifest",
+    "label": "Tiberias: General View."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003696897/manifest",
+    "@type": "sc:Manifest",
+    "label": "ארוחת צהרים בשדה ברחובות."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003695824/manifest",
+    "@type": "sc:Manifest",
+    "label": "בית הכנסת בפתח תקוה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003694733/manifest",
+    "@type": "sc:Manifest",
+    "label": "בית הספר ובית התפלה במקוה ישראל."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002642894/manifest",
+    "@type": "sc:Manifest",
+    "label": "Strasse im Viertel Sichron Mosche, Jerusalem"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003479543/manifest",
+    "@type": "sc:Manifest",
+    "label": "בניין בנק אנגלו פלשתינה, סניף ירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003479812/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>חוה כנרת."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003479829/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>ירדן בגליל על יד אום דז'וני."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002723780/manifest",
+    "@type": "sc:Manifest",
+    "label": "[בקור הרב חיים נחום במושבה פתח תקוה]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003694691/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>ירדן והכנרת בדגניה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003571815/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>לבורטוריה החימית בבית המדרש למורים בירושלם."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003681254/manifest",
+    "@type": "sc:Manifest",
+    "label": "מפת ארץ ישראל."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003542487/manifest",
+    "@type": "sc:Manifest",
+    "label": "משפחת ילין, ירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003483853/manifest",
+    "@type": "sc:Manifest",
+    "label": "Neue jüdische Viertel Herzliah in Haifa"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003696831/manifest",
+    "@type": "sc:Manifest",
+    "label": "צפת."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003569529/manifest",
+    "@type": "sc:Manifest",
+    "label": "קבוצה של נשות מייסדי תל אביב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003695828/manifest",
+    "@type": "sc:Manifest",
+    "label": "ראשון לציון: גן המושבה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003696180/manifest",
+    "@type": "sc:Manifest",
+    "label": "רחוב הרצל בתל אביב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003680863/manifest",
+    "@type": "sc:Manifest",
+    "label": "Herzlia - Gymnasia Ibrith, Jaffa, Palestine, Tell Abib [!]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002725176/manifest",
+    "@type": "sc:Manifest",
+    "label": "בית מדרש לרבנים ירושלים תובב\"א שנת אעת\"ר."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003570928/manifest",
+    "@type": "sc:Manifest",
+    "label": "חברי מערכת \"האחדות\"."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003696182/manifest",
+    "@type": "sc:Manifest",
+    "label": "חג ברחוב הרצל בתל אביב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003695254/manifest",
+    "@type": "sc:Manifest",
+    "label": "אורות שלמה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003670492/manifest",
+    "@type": "sc:Manifest",
+    "label": "בית אליעזר בן יהודה בשכונת תלפיות, ירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003823744/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<א>> גרופע פיאנערקעס ביי דער פעלד-ארבייט אין פאלעסטינא."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003696866/manifest",
+    "@type": "sc:Manifest",
+    "label": "הנחת אבן הפנה של הטיכניקום בחיפה, אביב תרע\"ב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003696884/manifest",
+    "@type": "sc:Manifest",
+    "label": "חגיגה שנתית ברחובות: תהלוכה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003479946/manifest",
+    "@type": "sc:Manifest",
+    "label": "שדרות רוטשילד, תל אביב"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003680843/manifest",
+    "@type": "sc:Manifest",
+    "label": "צפת: בית כנסת האר\"י ז\"ל"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003567131/manifest",
+    "@type": "sc:Manifest",
+    "label": "שמריה לוין, אהרן אהרנסון ויוסף לוריה לפני מלון הרדג, יפו."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003484464/manifest",
+    "@type": "sc:Manifest",
+    "label": "Die ersten Abiturienten des hebräischen Gymnasiums - Jaffa, 1913."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003538638/manifest",
+    "@type": "sc:Manifest",
+    "label": "ברנר עם אחיו ואחיותיו."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003709873/manifest",
+    "@type": "sc:Manifest",
+    "label": "[גלויה - ללא כותרת]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003711541/manifest",
+    "@type": "sc:Manifest",
+    "label": "[גלויה - ללא כותרת]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003696895/manifest",
+    "@type": "sc:Manifest",
+    "label": "ילדי רחובות נושאים במוט ענבים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003481767/manifest",
+    "@type": "sc:Manifest",
+    "label": "ועידת הגרענת הראשונה לרופאים העברים בא\"י. ירושלים, ד' ניסן - ו' ניסן, תרע\"ד."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003688247/manifest",
+    "@type": "sc:Manifest",
+    "label": "יודישע היטלען אין פערשידענע צייטען."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003691101/manifest",
+    "@type": "sc:Manifest",
+    "label": "מארק אנטוקולסקי על ערש המות."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003691485/manifest",
+    "@type": "sc:Manifest",
+    "label": "מסחר-מסחר."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003539059/manifest",
+    "@type": "sc:Manifest",
+    "label": "מטבח אחוה, יפו, תרע\"ה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003579029/manifest",
+    "@type": "sc:Manifest",
+    "label": "Regierungshaus mit Garten in Bir-es-Seba."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003579030/manifest",
+    "@type": "sc:Manifest",
+    "label": "Moschee in Gaza, 1917."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003707977/manifest",
+    "@type": "sc:Manifest",
+    "label": "Jerusalem: The Duke of Connaught on his way to the Holy Sepulchre."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003708000/manifest",
+    "@type": "sc:Manifest",
+    "label": "Jerusalem: The Official arrival of General Allenby at the Holy City."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003486474/manifest",
+    "@type": "sc:Manifest",
+    "label": "טקס הנחת אבן הפינה לאוניברסיטה העברית בירושלים, הר הצופים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003670219/manifest",
+    "@type": "sc:Manifest",
+    "label": "ארז הרצל, מוצא."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003487410/manifest",
+    "@type": "sc:Manifest",
+    "label": "בתי דגניה ממעוף הצפור."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002720365/manifest",
+    "@type": "sc:Manifest",
+    "label": "[החזרת ספרי התורה הגולים מפתח תקוה לתל אביב]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003487078/manifest",
+    "@type": "sc:Manifest",
+    "label": "ישיבת ועד הצירים עם באי כח הישוב, תרע\"ט."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003681283/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<Der>> Davids-Turm in Jerusalem."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003680876/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<The>> Jews Wailing place on Friday."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003691245/manifest",
+    "@type": "sc:Manifest",
+    "label": "חדרה: ביער האוקליפטוס."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003691141/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>חוה מגדל בגליל: על העין."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003691246/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>מושבה גדרה (קטרה)."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003691231/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>מושבה משמר הירדן בגליל."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003691243/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>מושבה מתולה בגליל - אשדות המים \"תנור\"."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003691237/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>מושבה ראש פנה בגליל: מראה נף."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003778324/manifest",
+    "@type": "sc:Manifest",
+    "label": "מן הפוגרום הירושלמי, פסח תר\"פ."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003708273/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>פסל ישראל סבה בגן בצלאל."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003538664/manifest",
+    "@type": "sc:Manifest",
+    "label": "בקור הגב' והא' אוסישקין על יד הבנין, הדר הכרמל, 27.10.1921."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002723074/manifest",
+    "@type": "sc:Manifest",
+    "label": "[וינסטון צ'רציל נואם לפני בנין ועד העיריה בתל אביב]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003567878/manifest",
+    "@type": "sc:Manifest",
+    "label": "אחד העם בשדרות הטכניון, חיפה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002643577/manifest",
+    "@type": "sc:Manifest",
+    "label": "קבוצה של ביל\"ויים בראשון לציון"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003484630/manifest",
+    "@type": "sc:Manifest",
+    "label": "פתיחת התערוכה של פרופ' בוריס שץ ב\"בצלאל\", חול המועד פסח תרפ\"ב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003539049/manifest",
+    "@type": "sc:Manifest",
+    "label": "הגמנסיה העברית בירושלים: בוגרי מחזור תרפ\"ב עם מוריהם."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003480193/manifest",
+    "@type": "sc:Manifest",
+    "label": "Jerusalem Men's College."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003567734/manifest",
+    "@type": "sc:Manifest",
+    "label": "בנין בית ביאליק."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003567738/manifest",
+    "@type": "sc:Manifest",
+    "label": "בנין בית ביאליק."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003567877/manifest",
+    "@type": "sc:Manifest",
+    "label": "בנין בית ביאליק."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002725371/manifest",
+    "@type": "sc:Manifest",
+    "label": "הנחת אבן הפנה במגדל לבתים הראשונים"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003483862/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>ועד הראשון וחבר העובדים של חברת דורשי האוניברסיטה העברית בירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002643651/manifest",
+    "@type": "sc:Manifest",
+    "label": "חג יובל שנות עבודתו הספרותית של מרדכי בן הלל הכהן"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003764863/manifest",
+    "@type": "sc:Manifest",
+    "label": "מגילת היסוד לשכונת תל משה, מגדל."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003539243/manifest",
+    "@type": "sc:Manifest",
+    "label": "פועלי בית החרושת לממתקים ושוקולד \"רענן\", תל אביב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003484946/manifest",
+    "@type": "sc:Manifest",
+    "label": "אהל על קבר הצדיק רבי מנחם נחום פרידמאן משטיפיענעשט, יאסי."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003536184/manifest",
+    "@type": "sc:Manifest",
+    "label": "בוגרי בית המדרש למורים העברי עם צוות המורים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003542439/manifest",
+    "@type": "sc:Manifest",
+    "label": "ביקור הברון רוטשילד בגן המושבה זכרון יעקב, תרפ\"ה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003564410/manifest",
+    "@type": "sc:Manifest",
+    "label": "ביקור הלורד בלפור בכפר הנוער שפיה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003680786/manifest",
+    "@type": "sc:Manifest",
+    "label": "Jerusalem from Mount Scopus."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003709869/manifest",
+    "@type": "sc:Manifest",
+    "label": "עלית החלוצים ביפו."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003488672/manifest",
+    "@type": "sc:Manifest",
+    "label": "בנייני האוניברסיטה העברית על הר הצופים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003669404/manifest",
+    "@type": "sc:Manifest",
+    "label": "ישיבת \"כנסת ישראל\" (סלבודקה), חברון."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003669406/manifest",
+    "@type": "sc:Manifest",
+    "label": "ישיבת \"כנסת ישראל\" (סלבודקה), חברון."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003669409/manifest",
+    "@type": "sc:Manifest",
+    "label": "חברון - מראה כללי."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003669946/manifest",
+    "@type": "sc:Manifest",
+    "label": "אשל אברהם על יד חברון."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003691240/manifest",
+    "@type": "sc:Manifest",
+    "label": "גדרה: מראה כללי."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003823737/manifest",
+    "@type": "sc:Manifest",
+    "label": "חברי הסתדרות הנוער העובד בארץ ישראל על שם בר ברוכוב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003571515/manifest",
+    "@type": "sc:Manifest",
+    "label": "חריש בשדות מגדל."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003571523/manifest",
+    "@type": "sc:Manifest",
+    "label": "חריש בשדות מגדל."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003713570/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ב>>יום פתיחת האוניברסיטה העברית בירושלים, ז' ניסן תרפ\"ה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002642709/manifest",
+    "@type": "sc:Manifest",
+    "label": "יוסף לוריה, יצחק ליב גולדברג ומרדכי בן הלל הכהן בהר הצופים"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003681269/manifest",
+    "@type": "sc:Manifest",
+    "label": "יפו: בית המכס ותנועת המסחר בנמל."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003628960/manifest",
+    "@type": "sc:Manifest",
+    "label": "כרוז מודיע על כניסת השבת בתל אביב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003480081/manifest",
+    "@type": "sc:Manifest",
+    "label": "לורד בלפור נואם בטקס פתיחת האוניברסיטה העברית, הר הצופים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003725136/manifest",
+    "@type": "sc:Manifest",
+    "label": "נחלת יעקב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002723649/manifest",
+    "@type": "sc:Manifest",
+    "label": "[פועלים עברים מניחים צנור מים בעיר העתיקה בירושלים]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003488324/manifest",
+    "@type": "sc:Manifest",
+    "label": "ביקור הרב קוק בקבוצת \"עבודת ישראל\" על הר הכרמל, תרפ\"ה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002723766/manifest",
+    "@type": "sc:Manifest",
+    "label": "[קבוצת סופרים עברים בזכרון יעקב, תרפ\"ו]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002723014/manifest",
+    "@type": "sc:Manifest",
+    "label": "[קבוצת סופרים עברים בתל אביב]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003713574/manifest",
+    "@type": "sc:Manifest",
+    "label": "תכנית הבית הכללי של האוניברסיטה העברית בירושלים מאת הפרופ. פ. גדס."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002642531/manifest",
+    "@type": "sc:Manifest",
+    "label": "תמונת בית הכנסת הגדול בית יעקב נשיאיה ופקידיה, ירושלים תרפ\"ה"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003578948/manifest",
+    "@type": "sc:Manifest",
+    "label": "[קבלת פנים לרב יחיאל מרדכי גורדון בפתח תקוה, תרפ\"ו]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003670044/manifest",
+    "@type": "sc:Manifest",
+    "label": "יהודי שיראז עוסקים בעבודות סיתות, ירושלים תרפ\"ו."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003478172/manifest",
+    "@type": "sc:Manifest",
+    "label": "יום הולדתו השבעים של אחד העם."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003567359/manifest",
+    "@type": "sc:Manifest",
+    "label": "לזכר העברת עצמות מנהיגנו הגדול ד\"ר מכס נורדוי ז\"ל לתל אביב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002643714/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>ישיבה האחרונה של ועדת העשרים"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002722485/manifest",
+    "@type": "sc:Manifest",
+    "label": "על אדמת \"מנורה\"."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003581150/manifest",
+    "@type": "sc:Manifest",
+    "label": "תעשית קופסאות הקהק\"ל בבית החרשת זלצמן בירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003670208/manifest",
+    "@type": "sc:Manifest",
+    "label": "חגיגת ראשון למאי, שכונת ברוכוב 1927."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003570070/manifest",
+    "@type": "sc:Manifest",
+    "label": "תהלוכת פורים תרפ\"ז ברחוב סט. פאול, ירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003557333/manifest",
+    "@type": "sc:Manifest",
+    "label": "Picknick des Sir Alfred Mond in Migdal, Tiberias."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003558008/manifest",
+    "@type": "sc:Manifest",
+    "label": "Villa Lord Melchett, Migdal, im bau."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003557331/manifest",
+    "@type": "sc:Manifest",
+    "label": "[בניית בית הקפה והמסעדה במושבה מגדל]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003488534/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>ישיבה הק' \"מרכז הרב\" יסוד הישיבה המרכזית העולמית בירושלם תוב\"א."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003567876/manifest",
+    "@type": "sc:Manifest",
+    "label": "[דב אלוני ובתו בחברת ח\"נ ביאליק]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573256/manifest",
+    "@type": "sc:Manifest",
+    "label": "ילדי המושבה מגדל מקבלים את פניו של לורד מלצ'ט."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003586455/manifest",
+    "@type": "sc:Manifest",
+    "label": "לורד מלצ'ט על שפת אגם כנרת, בקרבת המושבה מגדל."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003586200/manifest",
+    "@type": "sc:Manifest",
+    "label": "מלון פלטין, תל אביב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003536157/manifest",
+    "@type": "sc:Manifest",
+    "label": "הכנוס השלישי של קציני ברית טרומפלדור, תל אביב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003535399/manifest",
+    "@type": "sc:Manifest",
+    "label": "פנורמה של העיר נצרת"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003557334/manifest",
+    "@type": "sc:Manifest",
+    "label": "תלמידי בית הספר במושבה מגדל ממתינים לקבל את פניו של לורד מלצ'ט."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003557335/manifest",
+    "@type": "sc:Manifest",
+    "label": "תלמידי בית הספר במושבה מגדל ממתינים לקבל את פניו של לורד מלצ'ט."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003557262/manifest",
+    "@type": "sc:Manifest",
+    "label": "[חנוכת בית הקפה והמסעדה במושבה מגדל]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002720792/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירית אבן הפנה של בנין הקרן הקימת בירושלים"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003709575/manifest",
+    "@type": "sc:Manifest",
+    "label": "Jerusalem - The Jewish University on the Mount of Olives [!]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003709243/manifest",
+    "@type": "sc:Manifest",
+    "label": "Tel Aviv: The Municipality."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003709496/manifest",
+    "@type": "sc:Manifest",
+    "label": "בית הספריה הלאומית, האוניברסיטאית."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003577614/manifest",
+    "@type": "sc:Manifest",
+    "label": "בניין אופרה מוגרבי מואר לכבוד פורים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003481750/manifest",
+    "@type": "sc:Manifest",
+    "label": "ועדת הכותל, 1930."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003487513/manifest",
+    "@type": "sc:Manifest",
+    "label": "חזית חנות הצילום של ח'ליל ראאד, רחוב יפו, ירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003709540/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: בית הכנסת והרובע היהודי בעיר העתיקה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002723748/manifest",
+    "@type": "sc:Manifest",
+    "label": "[מורים ותלמידים בגמנסיה הרצליה, תל אביב]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003569560/manifest",
+    "@type": "sc:Manifest",
+    "label": "[נוף מן האמפיתיאטרון על הר הצופים]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003681352/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים. הכותל המערבי."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003569382/manifest",
+    "@type": "sc:Manifest",
+    "label": "תבליט המנורה שהעתקתי מהאבן השקועה בעמוד בבית הכנסת בפקיעין."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003709403/manifest",
+    "@type": "sc:Manifest",
+    "label": "תל אביב: בית ביאליק והעיריה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003901795/manifest",
+    "@type": "sc:Manifest",
+    "label": "היכל בית הכנסת \"רחביה\", ירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003557436/manifest",
+    "@type": "sc:Manifest",
+    "label": "מטע בננות במושבה מגדל."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003481768/manifest",
+    "@type": "sc:Manifest",
+    "label": "פקידי עירית תל אביב מברכים את ראש העיר מאיר דיזנגוף למלאת לו שבעים שנה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003670028/manifest",
+    "@type": "sc:Manifest",
+    "label": "צעירי המזרח בתהלוכת העדלאידע בתל אביב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002722699/manifest",
+    "@type": "sc:Manifest",
+    "label": "סופרים עברים בועידת הסופרים, תל אביב, תרצ\"א."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003570128/manifest",
+    "@type": "sc:Manifest",
+    "label": "Conference on Jewish Italian Poetesses: Palatin Hotel, Tel Aviv"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003628562/manifest",
+    "@type": "sc:Manifest",
+    "label": "ביקור הנציב העליון במחצבות \"סלע\", ירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003780277/manifest",
+    "@type": "sc:Manifest",
+    "label": "מגלת היסוד לבנין \"בית בנימין\", תל אביב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002642441/manifest",
+    "@type": "sc:Manifest",
+    "label": "מסיבה של \"ברית ראשונים\" לכבוד הביל\"ויים בגימנסיה הרצליה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002720803/manifest",
+    "@type": "sc:Manifest",
+    "label": "מסיבת \"אחיעבר\" בקיץ תרצ\"ב, תל אביב"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003484760/manifest",
+    "@type": "sc:Manifest",
+    "label": "ועידת הסופרים העברים, תל אביב, תרצ\"ב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003488390/manifest",
+    "@type": "sc:Manifest",
+    "label": "[ועד אגודת אחים אנשי אמריקה בירושלים]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003488416/manifest",
+    "@type": "sc:Manifest",
+    "label": "[טקס הנחת אבן הפנה לבנין \"מרכז אמריקאי\" בשכונת אחוה, ירושלים]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003629066/manifest",
+    "@type": "sc:Manifest",
+    "label": "מסע הלויה של חיים ארלוזורוב ברחובות תל אביב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003629068/manifest",
+    "@type": "sc:Manifest",
+    "label": "מסע הלויה של חיים ארלוזורוב ברחובות תל אביב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003629072/manifest",
+    "@type": "sc:Manifest",
+    "label": "מסע הלויה של חיים ארלוזורוב ברחובות תל אביב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003629073/manifest",
+    "@type": "sc:Manifest",
+    "label": "מסע הלויה של חיים ארלוזורוב ברחובות תל אביב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003488420/manifest",
+    "@type": "sc:Manifest",
+    "label": "[<<ה>>רב קוק נושא דברים בטקס הנחת אבן הפנה לבנין \"מרכז אמריקאי\" בשכונת אחוה, ירושלים]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003570160/manifest",
+    "@type": "sc:Manifest",
+    "label": "Laying of the Cornerstone of the Jeshurun (United Synagogue of America) Synagogue Center."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003570158/manifest",
+    "@type": "sc:Manifest",
+    "label": "Rabbi Lowenthal of the United Synagogue of America addressing the gathering assembled at the Laying of the Cornerstone of the Jeshurun Synagogue Center."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003709391/manifest",
+    "@type": "sc:Manifest",
+    "label": "Tel Hai: Trumpeldor Monument."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003567400/manifest",
+    "@type": "sc:Manifest",
+    "label": "מושב הועד הפועל הציוני בירושלם, ניסן תרצ\"ד."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573573/manifest",
+    "@type": "sc:Manifest",
+    "label": "גר צדק מהולנד קורא בתורה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002719909/manifest",
+    "@type": "sc:Manifest",
+    "label": "[חגיגת יובל החמישים למושבה גדרה]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003709585/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים - רחביה. מראה כללי מצד קרן-הקימת."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003541901/manifest",
+    "@type": "sc:Manifest",
+    "label": "סגל מורי האוניברסיטה העברית בירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003579023/manifest",
+    "@type": "sc:Manifest",
+    "label": "Damascus Gate, 1935."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003483647/manifest",
+    "@type": "sc:Manifest",
+    "label": "פגישת הציונים הותיקים בירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003670170/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>בית היהודי הראשון בשכונת הדר הכרמל, חיפה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003541998/manifest",
+    "@type": "sc:Manifest",
+    "label": "חיים ויצמן ושאול אדלר בטקס פתיחת המחלקה לכימיה פיסיקלית."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003578367/manifest",
+    "@type": "sc:Manifest",
+    "label": "חתונה יהודית בירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003712392/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: האוניברסיטה העברית."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003670186/manifest",
+    "@type": "sc:Manifest",
+    "label": "שכונת הדר הכרמל, חיפה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003670189/manifest",
+    "@type": "sc:Manifest",
+    "label": "שכונת הדר הכרמל, חיפה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003670195/manifest",
+    "@type": "sc:Manifest",
+    "label": "שכונת הדר הכרמל, חיפה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003570695/manifest",
+    "@type": "sc:Manifest",
+    "label": "מצעד של הצבא הבריטי בירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003487751/manifest",
+    "@type": "sc:Manifest",
+    "label": "[סטודנטים באוניברסיטה העברית בשעת הפסקה]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003487756/manifest",
+    "@type": "sc:Manifest",
+    "label": "[תצפית מתוך שער הכניסה הראשי לאוניברסיטה העברית]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003487761/manifest",
+    "@type": "sc:Manifest",
+    "label": "[<<ה>>מוזיאון הבוטני באוניברסיטה העברית, הר הצופים]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003487779/manifest",
+    "@type": "sc:Manifest",
+    "label": "[אלכסנדר איג מרצה לפני סטודנטים באוניברסיטה העברית בירושלים]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003674277/manifest",
+    "@type": "sc:Manifest",
+    "label": "שוטר פלשתינאי ברחוב יפו, ירושלים"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002655142/manifest",
+    "@type": "sc:Manifest",
+    "label": "הזוכים בפרס מוסד ביאליק"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003550650/manifest",
+    "@type": "sc:Manifest",
+    "label": "טקס הלויה של ד\"ר קרל פלדברג, חיפה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003541913/manifest",
+    "@type": "sc:Manifest",
+    "label": "קונצרט של הרביעיה הירושלמית לכלי מיתר - רביעית האוזר."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002723479/manifest",
+    "@type": "sc:Manifest",
+    "label": "שריונית בריטית מאבטחת אוטובוס עברי בדרך לירושלים"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003569470/manifest",
+    "@type": "sc:Manifest",
+    "label": "Palestine Potash Co. Workers Camp at the Southern End of the Dead Sea."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003574727/manifest",
+    "@type": "sc:Manifest",
+    "label": "חוף עין גב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003487797/manifest",
+    "@type": "sc:Manifest",
+    "label": "[סטודנטים מן האוניברסיטה העברית בירושלים אורזים תפוזים בפרדס]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003571237/manifest",
+    "@type": "sc:Manifest",
+    "label": "איטה ודוד ילין עם אחד מנכדיהם."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573499/manifest",
+    "@type": "sc:Manifest",
+    "label": "מראה כללי של האוניברסיטה העברית בירושלים, הר הצופים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003570087/manifest",
+    "@type": "sc:Manifest",
+    "label": "ועד הסתדרות הסטודנטים של האוניברסיטה העברית בשנת תרצ\"ז - תרצ\"ח."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003570710/manifest",
+    "@type": "sc:Manifest",
+    "label": "טיפוס יהודי מהכותל המערבי."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003578985/manifest",
+    "@type": "sc:Manifest",
+    "label": "[מראה כללי של האוניברסיטה העברית בירושלים, הר הצופים]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003479476/manifest",
+    "@type": "sc:Manifest",
+    "label": "חגיגת בר מצוה של משה כהן משהיוף, ירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003569469/manifest",
+    "@type": "sc:Manifest",
+    "label": "One of the factory buildings of the Palestine Potash Co. on the Dead Sea."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003487423/manifest",
+    "@type": "sc:Manifest",
+    "label": "[חיילים בריטים מפזרים קהל מפגינים יהודים ברחוב גאולה, ירושלים.]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003687400/manifest",
+    "@type": "sc:Manifest",
+    "label": "בית מדרש שם ועבר ומערת רבי דוסא בן הרכינס, צפת."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003669412/manifest",
+    "@type": "sc:Manifest",
+    "label": "הכניסה למערת המכפלה - ציור מאת מוניה לנדר."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003687401/manifest",
+    "@type": "sc:Manifest",
+    "label": "ציון בניהו בן יהוידע הכהן, צפת."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003687486/manifest",
+    "@type": "sc:Manifest",
+    "label": "ציון רבי יהודה בר אילעאי ור' יוסי בנו, עין זיתון."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003687500/manifest",
+    "@type": "sc:Manifest",
+    "label": "ציון רבי יהושע בן חנניא, צפת."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003687682/manifest",
+    "@type": "sc:Manifest",
+    "label": "ציון רבי יוסי סאראגוסי, עין זיתון."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003687489/manifest",
+    "@type": "sc:Manifest",
+    "label": "ציון רבי ירמי', טבריא."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003687764/manifest",
+    "@type": "sc:Manifest",
+    "label": "ציון רבי כרוספדאי חמיד ליבא ורבי רחומאי, עין זיתון."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003687765/manifest",
+    "@type": "sc:Manifest",
+    "label": "ציון רבינו יצחק לוריא האר\"י ז\"ל, צפת."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003687494/manifest",
+    "@type": "sc:Manifest",
+    "label": "ציון רבינו משה חיים לוצטו בעל \"מסילת ישרים\", טבריה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003480022/manifest",
+    "@type": "sc:Manifest",
+    "label": "רחוב המלכים, חיפה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573970/manifest",
+    "@type": "sc:Manifest",
+    "label": "Member of the Youth Aliyah Settlement at the Dead Sea Northen End."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573984/manifest",
+    "@type": "sc:Manifest",
+    "label": "אמת המים הרומית בצד כביש עכו - נהריה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002723580/manifest",
+    "@type": "sc:Manifest",
+    "label": "[אמת המים ליד קבוץ לוחמי הגטאות]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003488651/manifest",
+    "@type": "sc:Manifest",
+    "label": "בית המדרש למורים \"מזרחי\", ירושלם ת\"ו."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573943/manifest",
+    "@type": "sc:Manifest",
+    "label": "אחות אוחזת בידה תינוק שהגיע על סיפון האניה \"מטרואה\"."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003586420/manifest",
+    "@type": "sc:Manifest",
+    "label": "בית צעירות מזרחי, ירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003586433/manifest",
+    "@type": "sc:Manifest",
+    "label": "חניך עלית הנוער."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003570672/manifest",
+    "@type": "sc:Manifest",
+    "label": "מצעד של הצבא הבריטי ברחובות ירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003569639/manifest",
+    "@type": "sc:Manifest",
+    "label": "Children of Sdoth Yam during the searches."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003538033/manifest",
+    "@type": "sc:Manifest",
+    "label": "Palestine Police Band, 1st. June, 1946."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003569634/manifest",
+    "@type": "sc:Manifest",
+    "label": "Screening at the searches in Sdoth Yam."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003558278/manifest",
+    "@type": "sc:Manifest",
+    "label": "Searches at Sdoth Yam: Screening of the woman."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003570703/manifest",
+    "@type": "sc:Manifest",
+    "label": "[חיילים בריטים עורכים חיפוש בירושלים]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003570219/manifest",
+    "@type": "sc:Manifest",
+    "label": "מלון המלך דוד בירושלים לאחר הפיצוץ."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003558235/manifest",
+    "@type": "sc:Manifest",
+    "label": "[ספינת המעפילים \"ארבע חירויות\" בנמל חיפה]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003558167/manifest",
+    "@type": "sc:Manifest",
+    "label": "[ספינת המעפילים \"מקס נורדאו\" בנמל חיפה]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003558176/manifest",
+    "@type": "sc:Manifest",
+    "label": "[ספינת המעפילים \"מקס נורדאו\" בנמל חיפה]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003558178/manifest",
+    "@type": "sc:Manifest",
+    "label": "[ספינת המעפילים \"מקס נורדאו\" בנמל חיפה]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003558229/manifest",
+    "@type": "sc:Manifest",
+    "label": "[ספינת המעפילים \"מקס נורדאו\" בנמל חיפה]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003570230/manifest",
+    "@type": "sc:Manifest",
+    "label": "רחוב מאה שערים בירושלים בשעת עוצר."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002725678/manifest",
+    "@type": "sc:Manifest",
+    "label": "Leo Baeck School, Haifa: Our children celebrating the foundation of the Jewish State, November 1947."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003569629/manifest",
+    "@type": "sc:Manifest",
+    "label": "Yishuv celebrates Jewish State Decision."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002723535/manifest",
+    "@type": "sc:Manifest",
+    "label": "[גלאב פשה, עבדאללה מלך ירדן וגנרל ברקר בירושלים, 1947]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003571004/manifest",
+    "@type": "sc:Manifest",
+    "label": "אנית המעפילים \"יציאת אירופה תש\"ז"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003578339/manifest",
+    "@type": "sc:Manifest",
+    "label": "אנית המעפילים \"יציאת אירופה תש\"ז"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003558043/manifest",
+    "@type": "sc:Manifest",
+    "label": "אנית המעפילים \"יציאת אירופה תש\"ז\" בהגיעה לחופי ארץ ישראל"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003558050/manifest",
+    "@type": "sc:Manifest",
+    "label": "אנית המעפילים \"יציאת אירופה תש\"ז\" בהגיעה לחופי ארץ ישראל"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003558276/manifest",
+    "@type": "sc:Manifest",
+    "label": "אנית המעפילים \"מדינת היהודים\" בהגיעה לחופי ארץ ישראל"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003569631/manifest",
+    "@type": "sc:Manifest",
+    "label": "Yishuv celebrates Jewish State Decision."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003629430/manifest",
+    "@type": "sc:Manifest",
+    "label": "חגיגות כ\"ט בנובמבר בחצר בנייני המוסדות הלאומיים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003571024/manifest",
+    "@type": "sc:Manifest",
+    "label": "קבוצת יתומים יהודים בהגיעה מקפריסין לחופי הארץ."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003557778/manifest",
+    "@type": "sc:Manifest",
+    "label": "Defence of the Negev."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003570166/manifest",
+    "@type": "sc:Manifest",
+    "label": "Lydda Airport back in action."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003558579/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<The>> Supreme Court at its opening session in Jerusalem, September 1948."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003545721/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>גמנסיה העברית, ירושלים: מחזור כ\"ח, ה'תש\"ח."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003574352/manifest",
+    "@type": "sc:Manifest",
+    "label": "טקס הכרזת המדינה, ה' אייר תש\"ח."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003557525/manifest",
+    "@type": "sc:Manifest",
+    "label": "טקס הפתיחה של כביש הגבורה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573680/manifest",
+    "@type": "sc:Manifest",
+    "label": "ילדי שאר ישוב עם אמותיהם."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003569446/manifest",
+    "@type": "sc:Manifest",
+    "label": "[נוסעים ליד אוטובוס משוריין בימי מלחמת העצמאות]."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002723327/manifest",
+    "@type": "sc:Manifest",
+    "label": "[חברות קבוץ גניגר מתאמנות בנשיאת פצוע]"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003569623/manifest",
+    "@type": "sc:Manifest",
+    "label": "Opening of Israel's First Parliament: Israeli Arab members of the Assembly."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573629/manifest",
+    "@type": "sc:Manifest",
+    "label": "Post War Refugees"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573659/manifest",
+    "@type": "sc:Manifest",
+    "label": "Post War Refugees"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573664/manifest",
+    "@type": "sc:Manifest",
+    "label": "Post War Refugees"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003570948/manifest",
+    "@type": "sc:Manifest",
+    "label": "חיים ויצמן ודניאל אוסטר."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003557806/manifest",
+    "@type": "sc:Manifest",
+    "label": "הבחירות לאסיפה המכוננת: קלפי באבו גוש."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003557811/manifest",
+    "@type": "sc:Manifest",
+    "label": "הבחירות לאסיפה המכוננת: קלפי באבו גוש."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003570376/manifest",
+    "@type": "sc:Manifest",
+    "label": "חיילי יחידת המעוטים של צה\"ל צועדים ב\"יום הצבא\", כ' תמוז תש\"ט"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573485/manifest",
+    "@type": "sc:Manifest",
+    "label": "חיילי צה\"ל צועדים ב\"יום הצבא\", כ' תמוז תש\"ט"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003564656/manifest",
+    "@type": "sc:Manifest",
+    "label": "טקס השבעתו של חיים וייצמן לנשיא מדינת ישראל."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003712421/manifest",
+    "@type": "sc:Manifest",
+    "label": "ישובי קרן היסוד - מבצרי עוז בימי מלחמה, מקורות מחיה לעם בימי שלום."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003702787/manifest",
+    "@type": "sc:Manifest",
+    "label": "Jerusalem."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002723490/manifest",
+    "@type": "sc:Manifest",
+    "label": "Tree Nursery at Ilanot, Near Kfar Vitkin"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003569466/manifest",
+    "@type": "sc:Manifest",
+    "label": "Yemenite workers at the embroidery workshops \"Shani\", Jerusalem."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573411/manifest",
+    "@type": "sc:Manifest",
+    "label": "אנדרטת הגבורה על יד יער חולדה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003569467/manifest",
+    "@type": "sc:Manifest",
+    "label": "בניית צריפי פח במושב עגור, פרוזדור ירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003486907/manifest",
+    "@type": "sc:Manifest",
+    "label": "בנות חצרמות, מעברת עין שמר, 1950."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003704723/manifest",
+    "@type": "sc:Manifest",
+    "label": "הר ציון - ירושלים: בבית העדות."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003704780/manifest",
+    "@type": "sc:Manifest",
+    "label": "הר ציון - ירושלים: במרתף השואה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003704841/manifest",
+    "@type": "sc:Manifest",
+    "label": "הר ציון - ירושלים: חדר כנור דוד."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003704926/manifest",
+    "@type": "sc:Manifest",
+    "label": "הר ציון - ירושלים: ליד מצבת דוד המלך."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003704929/manifest",
+    "@type": "sc:Manifest",
+    "label": "הר ציון - ירושלים: קבר דוד המלך."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573365/manifest",
+    "@type": "sc:Manifest",
+    "label": "חוות אילנות לחקר היער."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573368/manifest",
+    "@type": "sc:Manifest",
+    "label": "חוות אילנות לחקר היער."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003704957/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705582/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: בית הנכאות \"בצלאל\"."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705655/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: בנין י.מ.ק.א."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705478/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: בעיר החדשה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003704685/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: הכותל המערבי."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705602/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: הכנסיה החבשית."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705470/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: העיר החדשה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003702788/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: העיר העתיקה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003702791/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: הר הבית."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003704695/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: הר ציון."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003702804/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: חומת העיר העתיקה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705684/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: חפירות בסנהדריה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003702802/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: מבט לעיר העתיקה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003704667/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: מגדל דוד."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003704674/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: מגדל דוד."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705645/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: מראה בית הכרם, בית וגן והר הרצל."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705265/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: מראה חלקי."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705270/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: מראה חלקי."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705439/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: מראה חלקי."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705464/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: מראה חלקי."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003704936/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: סוכות במאה שערים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003704937/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: סוכות במאה שערים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705473/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: עמק המצלבה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705778/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: קבר הרצל."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705481/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: רחוב בן יהודה מככר ציון."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705652/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: רחוב המלך ג'ורג' החמישי ובנין הכנסת."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705665/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: שכונת ימין משה - טחנת רוח."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003557635/manifest",
+    "@type": "sc:Manifest",
+    "label": "עולים חדשים במושב עלמה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705819/manifest",
+    "@type": "sc:Manifest",
+    "label": "קבר רחל."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003567049/manifest",
+    "@type": "sc:Manifest",
+    "label": "דוד בן גוריון נואם בעצרת לציון סוף מבצע \"על כנפי נשרים\"."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002723495/manifest",
+    "@type": "sc:Manifest",
+    "label": "Tel Yeruham, Settlement of New Immigrants in the Negev"
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003823763/manifest",
+    "@type": "sc:Manifest",
+    "label": "ביקור שר האוצר בלונדון."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003557641/manifest",
+    "@type": "sc:Manifest",
+    "label": "בתים חדשים במושב בית נקופה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003557651/manifest",
+    "@type": "sc:Manifest",
+    "label": "בתים חדשים במושב בית נקופה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003557657/manifest",
+    "@type": "sc:Manifest",
+    "label": "עולים חדשים במושב בית נקופה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003569461/manifest",
+    "@type": "sc:Manifest",
+    "label": "קציר שעורה בנגב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003557604/manifest",
+    "@type": "sc:Manifest",
+    "label": "תפילה בבית הכנסת של מושב עלמה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL002723597/manifest",
+    "@type": "sc:Manifest",
+    "label": "Cana."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573372/manifest",
+    "@type": "sc:Manifest",
+    "label": "ייבוש ביצות החולה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573596/manifest",
+    "@type": "sc:Manifest",
+    "label": "מבט אל הכנרת מקיבוץ עין גב בשעת שקיעה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003586223/manifest",
+    "@type": "sc:Manifest",
+    "label": "ילדי גן הילדים באילת עם הגננת ברכה דבינר."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573388/manifest",
+    "@type": "sc:Manifest",
+    "label": "מצעד צה\"ל בעיר חיפה, יום העצמאות תשי\"ג."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003673404/manifest",
+    "@type": "sc:Manifest",
+    "label": "ילדי בית ספר במושב מסלול בנגב."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003567764/manifest",
+    "@type": "sc:Manifest",
+    "label": "מתן מענק לידה ראשון על ידי שרת העבודה בבית החולים \"הדסה\", ירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705746/manifest",
+    "@type": "sc:Manifest",
+    "label": "בית הקברות הצבאי, הר הרצל, ירושלים - קבר החייל האלמוני."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003704952/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: במאה שערים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705706/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: בנין הכנסת."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705713/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: בניני הסוכנות היהודית."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705726/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: הכניסה להר הרצל."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003704766/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: הר ציון."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705808/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: קרית האוניברסיטה בהקמתה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573458/manifest",
+    "@type": "sc:Manifest",
+    "label": "מבצע קדש: הנשיא ורעייתו מבקרים בעמדת צה\"ל בראס נצרני."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573412/manifest",
+    "@type": "sc:Manifest",
+    "label": "מבצע קדש: חיילי צה\"ל בדרך אל איסמעיליה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573478/manifest",
+    "@type": "sc:Manifest",
+    "label": "מבצע קדש: חיילי צה\"ל בעמדה מצרית שנכבשה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573226/manifest",
+    "@type": "sc:Manifest",
+    "label": "חנוכת מעון הסטודנטים ברחוב איתמר בן אב\"י, ירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003574126/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>נשיא בן צבי מעיין בספר שהוגש לו על ידי מחבריו."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003488190/manifest",
+    "@type": "sc:Manifest",
+    "label": "Habimah Theatre celebration on its 40th anniverary."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003488196/manifest",
+    "@type": "sc:Manifest",
+    "label": "President Ben Zvi with the leading Habimah actors on its 40th anniverary."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705812/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>אוניברסיטה העברית בירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705689/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: \"היכל שלמה\" - בנין הרבנות הראשית."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705698/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: \"היכל שלמה\" - בנין הרבנות הראשית."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573638/manifest",
+    "@type": "sc:Manifest",
+    "label": "Post War Refugees: New People for a New Land."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573562/manifest",
+    "@type": "sc:Manifest",
+    "label": "מראה כללי של קרית האוניברסיטה העברית בירושלים, גבעת רם."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705787/manifest",
+    "@type": "sc:Manifest",
+    "label": "ירושלים: קבר הרצל."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003725165/manifest",
+    "@type": "sc:Manifest",
+    "label": "ישיבה של מועצת יד ושם, קיץ תש\"ך."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003479949/manifest",
+    "@type": "sc:Manifest",
+    "label": "בית הספר התיכוני לנערים \"מזרחי\", ירושלים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573091/manifest",
+    "@type": "sc:Manifest",
+    "label": "מדור ההשאלה בספריית א. ספיר בפתח תקווה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003571295/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>נשיא בן צבי מברך את הארכיבישוף חכים."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573098/manifest",
+    "@type": "sc:Manifest",
+    "label": "<<ה>>ספרייה וחדר העיון בבית התלמיד, פתח תקוה."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573065/manifest",
+    "@type": "sc:Manifest",
+    "label": "ילדי שכונת בקעה בירושלים מחכים לבוא הספרייה הניידת."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003573072/manifest",
+    "@type": "sc:Manifest",
+    "label": "ילדי שכונת עין כרם בירושלים לפני הספרייה הניידת."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003705817/manifest",
+    "@type": "sc:Manifest",
+    "label": "שבטי ישראל - חלונות שאגאל בבית הכנסת במרכז הרפואי של \"הדסה\"."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003569716/manifest",
+    "@type": "sc:Manifest",
+    "label": "תערוכת הגדות של פסח."
+  },
+  {
+    "@id": "http://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL003579012/manifest",
+    "@type": "sc:Manifest",
+    "label": "Gemini XI - A view of Israel and its neighbors."
+  }
+]
