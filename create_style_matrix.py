@@ -21,7 +21,7 @@ import argparse
 def_sl = ['block1_conv2'] # Use this for just the first conv layer
 # def_sl = ['block4_conv3'] # Use this for just the last conv layer
 
-style_dir = 'samples'
+style_dir = 'maps'
 gpu = None
 style_imgs = None
 style_img_size= [None]
