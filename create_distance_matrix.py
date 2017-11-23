@@ -2,7 +2,7 @@ import pickle
 import numpy as np
 from scipy.linalg import sqrtm
 
-style_dir = 'maps'
+style_dir = 'epherma'
 
 mtx = pickle.load(open('{}.pickle'.format(style_dir),'rb'))
 
