@@ -19,8 +19,9 @@ import argparse
 
 # def_sl = ['block1_conv2', 'block2_conv2','block3_conv3', 'block4_conv3']
 def_sl = ['block1_conv2'] # Use this for just the first conv layer
+# def_sl = ['block4_conv3'] # Use this for just the last conv layer
 
-style_dir = 'maps'
+style_dir = 'samples'
 gpu = None
 style_imgs = None
 style_img_size= [None]
@@ -63,4 +64,5 @@ for img_name, img_size in zip(style_imgs, style_img_size):
 mtx = []
 for l in gm_lists:
     mtx.append(np.concatenate(l))
+mtx = mtx[0]
 pickle.dump(mtx, open('{}.pickle'.format(style_dir),'wb'),protocol=2)
